@@ -1,0 +1,29 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /bigsoft/Xilinx/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab work.tb_PGCD -nolog -debug typical -cc gcc 
+Multi-threading is on. Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture mixte of entity work.PC [pc_default]
+Compiling architecture adsu8_v of entity work.ADSU8 [adsu8_default]
+Compiling architecture compm8_v of entity work.COMPM8 [compm8_default]
+Compiling architecture behavioral of entity work.FD8CE [fd8ce_default]
+Compiling architecture mixte of entity work.PO [po_default]
+Compiling architecture mixte of entity work.PGCD [pgcd_default]
+Compiling architecture behavioral of entity work.tb_pgcd
+Built simulation snapshot work.tb_PGCD
+
+****** Webtalk v2019.1 (64-bit)
+  **** SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+  **** IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+    ** Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+
+source /user/9/.base/loursm/home/archi/tps/tp4/src_etd/xsim.dir/work.tb_PGCD/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Thu Feb  9 11:52:12 2023...

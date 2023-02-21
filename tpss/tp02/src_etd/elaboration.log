@@ -1,0 +1,22 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /bigsoft/Xilinx/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab work.tb_lecture_memoire -nolog -debug typical -cc gcc 
+Multi-threading is on. Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package xpm.vcomponents
+Compiling package vl.vl_types
+Compiling architecture mixte of entity work.Compteur [\Compteur(n=15)\]
+Compiling module xpm.xpm_memory_base(MEMORY_TYPE=0,ME...
+Compiling module xpm.xpm_memory_spram(MEMORY_SIZE=614...
+Compiling architecture structural of entity work.RAM_Video [ram_video_default]
+Compiling architecture mixte of entity work.lecture_memoire [lecture_memoire_default]
+Compiling architecture behavior of entity work.tb_lecture_memoire
+Built simulation snapshot work.tb_lecture_memoire

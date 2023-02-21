@@ -1,0 +1,5 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-163] Analyzing VHDL file "/user/9/.base/loursm/home/archi/tps/tp3/src_etd/vhd/auto_implicite.vhd" into library work
+INFO: [VRFC 10-3107] analyzing entity 'auto'
+INFO: [VRFC 10-163] Analyzing VHDL file "/user/9/.base/loursm/home/archi/tps/tp3/src_etd/vhd/tb_auto.vhd" into library work
+INFO: [VRFC 10-3107] analyzing entity 'tb_auto'

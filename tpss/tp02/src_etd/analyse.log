@@ -1,0 +1,9 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-163] Analyzing VHDL file "/user/9/.base/loursm/home/archi/tps/tp02/src_etd/vhd/lecture_memoire.vhd" into library work
+INFO: [VRFC 10-3107] analyzing entity 'lecture_memoire'
+INFO: [VRFC 10-163] Analyzing VHDL file "/user/9/.base/loursm/home/archi/tps/tp02/src_etd/vhd/Compteur.vhd" into library work
+INFO: [VRFC 10-3107] analyzing entity 'Compteur'
+INFO: [VRFC 10-163] Analyzing VHDL file "/user/9/.base/loursm/home/archi/tps/tp02/src_etd/vhd/RAM_Video.vhd" into library work
+INFO: [VRFC 10-3107] analyzing entity 'RAM_Video'
+INFO: [VRFC 10-163] Analyzing VHDL file "/user/9/.base/loursm/home/archi/tps/tp02/src_etd/vhd/tb_lecture_memoire.vhd" into library work
+INFO: [VRFC 10-3107] analyzing entity 'tb_lecture_memoire'
